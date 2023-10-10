@@ -1,3 +1,3 @@
 # hello-world
 
-This is a test Readme!
+Anything in this repository is only here for testing and technical demonstrations.
